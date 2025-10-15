@@ -33,7 +33,7 @@ curl -F "file=@myapp.jar" http://localhost:8080/upload
 
 The old application process will be terminated.
 
-The new JAR will replace app.jar.
+The new JAR will replace app.jar
 
 Then start the application app.jar and you'll see the app.jar is created in the directory
 
